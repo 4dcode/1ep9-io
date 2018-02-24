@@ -722,22 +722,22 @@ ul.external li a:hover {
 }
 
 /*=================================================================
-	Testimonials
+	team
 ==================================================================*/
 
 
-#testimonials {
+#team {
     background-image: url(../img/parallax/testimonial.jpg);
     padding: 0;
     color: #fff;
 }
 
-#testimonials .sec-title h2:after {
+#team .sec-title h2:after {
     border-bottom: 1px solid #fff;
 }
 
-#testimonials .overlay {
-    background-color: rgba(15,155,224, 0.78);
+#team .overlay {
+    background-color: #009EE3;
     padding: 70px 0 40px;
 }
 
@@ -788,18 +788,18 @@ ul.external li a:hover {
     text-transform: uppercase;
 }
 
-#testimonials .owl-controls.clickable {
+#team .owl-controls.clickable {
     margin-top: 20px;
     text-align: center;
 }
 
-#testimonials .owl-buttons {
+#team .owl-buttons {
     border: 2px solid #fff;
     float: inherit;
 }
 
-#testimonials .owl-prev:hover,
-#testimonials .owl-next:hover {
+#team .owl-prev:hover,
+#team .owl-next:hover {
     color: #fff;
 }
 
