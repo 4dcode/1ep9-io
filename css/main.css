@@ -523,7 +523,7 @@ h1.navbar-brand {
 }
 
 #about .welcome-block h3 {
-    margin: 0 0 35px;
+    margin: 0 0 30px;
 }
 
 #about .welcome-block img {
@@ -534,7 +534,7 @@ h1.navbar-brand {
 }
 
 #about .message-body {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 20px;
     margin-bottom: 70px;
 }
